@@ -188,9 +188,3 @@ const paymentTx = await GhostBotSDK.pay.sendPrivatePayment("SENDER", "RECIPIENT"
 ## **License**
 
 MIT License © 2026 Ghost Foundation / Ghost Protocol
-
----
-
-## **Contact**
-
-For questions or support, contact **[support@ghostbot.fund](mailto:support@ghostbot.fund)**
